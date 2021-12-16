@@ -5,5 +5,5 @@
    :caption: Contents:
 
    Introduction <self>
-   readme
+   readme_file
    api_reference
